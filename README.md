@@ -25,6 +25,8 @@ Contributing
 Reporting Issues
 ----------------
 
+
+
 If you're experiencing a problem that you feel is a bug in AWX or have ideas for improving AWX, we encourage you to open an issue and share your feedback. But before opening a new issue, we ask that you please take a look at our [Issues guide](./ISSUES.md).
 
 Code of Conduct
